@@ -1,0 +1,2 @@
+imu_subs
+-DCATKIN_DEVEL_PREFIX=/home/cvl/catkin_daq/read_imu/devel -DCMAKE_INSTALL_PREFIX=/home/cvl/catkin_daq/read_imu/install -G Unix Makefiles

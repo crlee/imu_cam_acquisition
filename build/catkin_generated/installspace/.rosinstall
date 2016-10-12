@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/cvl/catkin_daq/read_imu/install/setup.sh

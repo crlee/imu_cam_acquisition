@@ -1,0 +1,8 @@
+prefix=/home/cvl/catkin_daq/read_imu/devel
+
+Name: imu_subs
+Description: Description of imu_subs
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/cvl/catkin_daq/read_imu/devel/lib 
+Requires: 
